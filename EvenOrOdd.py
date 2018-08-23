@@ -1,5 +1,5 @@
 n=int(raw_input())
 if(n/2==0):
-	print "even"
+	print "Even"
 else:
-	print "odd"
+	print "Odd"

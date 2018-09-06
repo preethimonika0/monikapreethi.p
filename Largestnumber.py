@@ -7,4 +7,4 @@ elif ((n2>n1) and (n2>n3)):
 	largest=n2
 else:
 	largest=n3
-print "largest"
+print "

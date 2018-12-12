@@ -6,8 +6,8 @@ while t>0:
 	s+=d**3
 	t//=10
 	if n==s:
-		print("is a armstrong number")
+		print("yes")
 		break
 	else:
-		print("is not a armstrong number")
+		print("no")
 		break

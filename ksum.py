@@ -1,4 +1,4 @@
-n,k=map(int,raw_input().split())
+N,K=map(int,raw_input().split())
 r=list()
 for i in range(0,n):
   i=int(raw_input())
